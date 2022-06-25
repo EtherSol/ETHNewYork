@@ -1,0 +1,3 @@
+dotenv: ETHNEWYORK/Website/Web3/.env
+wallets:
+  from_key: ${PRIVATE_KEY}
