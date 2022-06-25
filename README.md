@@ -1,7 +1,8 @@
-# ETHNewYork
+# ETHNewYork: Metro 2.0
 EthGlobal Hackathon Project June 24, 2022
 
 Title : MTA 2.0
+<br>
 Team Amount : 1 (SOLO)
 
 Idea : Decentralize MTA; Public Transportation
@@ -10,18 +11,21 @@ PowerPoint : https://docs.google.com/presentation/d/1NX9oRC1ikMedTkO4_AMSxB4gV3n
 
 
 
-Friday // Saturday // Sunday Schedule
-
+Friday // Saturday // Sunday Schedule:
+<br> <br>
 Friday
+_______
+<br> <br>
 
-Arrival
+Django setup <br>
+Github setup <br>
+Ganache/ Link with Brownie (30 minutes) <br>
+Learn about the different stands <br>
 
-Django setup
-Github setup
-Ganache/ Link with Brownie (30 minutes)
-Learn about the different stands
 Saturday
-
+________
+<br> <br>
 Sunday
-
+_________
+<br> <br>
 References (MLA)
