@@ -1,3 +1,12 @@
-dotenv: ETHNEWYORK/Website/Web3/.env
+dotenv: .env
+dependencies: 
+  - OpenZeppelin/openzeppelin-contracts@4.6.0
+compiler:
+  solc:
+    remappings:
+      - '@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.6.0'
+networks: 
+  optimism:
+    eth_usd_price_feed: '0x4Dab1Dc2409A037d80316F2379Ac767A477C4236'
 wallets:
   from_key: ${PRIVATE_KEY}
