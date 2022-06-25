@@ -5,7 +5,7 @@ token_name = "Metro Token"
 token_symbol = "MTNY"
 
 def main():
-    account = accounts[0]
+    account = accounts.add(config["wallets"]["from_key"])
     erc20 = TokenERC20.deploy(
-        initial_supply,token_name,token_symbol,{"from":account}
+        initial_supply,token_name,token_symbol,{"from":account},publish_source=True
     )

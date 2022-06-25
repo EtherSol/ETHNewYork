@@ -6,7 +6,7 @@ compiler:
     remappings:
       - '@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.6.0'
 networks: 
-  optimism:
+  optimism_tether:
     eth_usd_price_feed: '0x4Dab1Dc2409A037d80316F2379Ac767A477C4236'
 wallets:
   from_key: ${PRIVATE_KEY}
