@@ -1,3 +1,10 @@
+html {
+    overflow: scroll;
+    overflow-x:hidden;
+
+    /* scroll-behavior: smooth; */
+}
+
 .color {
     text-font: ;
     position: absolute;
@@ -9,4 +16,5 @@
     margin-left: -50px;
     width: 100px;
     height: 100px;
+    font-family: "Courier New";
 }
