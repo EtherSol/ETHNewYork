@@ -5,6 +5,10 @@ html {
     /* scroll-behavior: smooth; */
 }
 
+#demo {
+    background-color: blue;
+}
+
 .color {
     text-font: ;
     position: absolute;
