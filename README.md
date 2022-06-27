@@ -24,7 +24,6 @@ Friday // Saturday // Sunday Schedule:
 <br> <br>
 Friday
 _______
-<br> <br>
 
 Django setup <br>
 Github setup <br>
@@ -33,8 +32,14 @@ Learn about the different stands <br>
 
 Saturday
 ________
-<br> <br>
+<br> 
+Work on the Website - Stack (Html, Css, JavaScript)
+Created the Token (Solidity)
+Create the governance for the Token
+
 Sunday
 _________
-<br> <br>
+<br>
+Finish the Token
+
 References (MLA)
