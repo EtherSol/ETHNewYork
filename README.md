@@ -33,9 +33,9 @@ Learn about the different stands <br>
 Saturday
 ________
 <br> 
-Work on the Website - Stack (Html, Css, JavaScript)
-Created the Token (Solidity)
-Create the governance for the Token
+Work on the Website - Stack (Html, Css, JavaScript)<br>
+Created the Token (Solidity)<br>
+Create the governance for the Token<br>
 
 Sunday
 _________
