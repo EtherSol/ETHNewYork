@@ -29,17 +29,16 @@ Django setup <br>
 Github setup <br>
 Ganache/ Link with Brownie (30 minutes) <br>
 Learn about the different stands <br>
-
+<br>
 Saturday
 ________
-<br> 
+
 Work on the Website - Stack (Html, Css, JavaScript)<br>
 Created the Token (Solidity)<br>
 Create the governance for the Token<br>
-
+<br>
 Sunday
 _________
-<br>
 Finish the Token
 
 References (MLA)
