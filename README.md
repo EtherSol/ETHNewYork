@@ -15,6 +15,7 @@ ______________________
 
 Idea : Decentralize MTA; Public Transportation
 PowerPoint : https://docs.google.com/presentation/d/1NX9oRC1ikMedTkO4_AMSxB4gV3niavTdlP7L4y9GI_U/edit?usp=sharing
+EtherScan Link : https://kovan.etherscan.io/token/0x5f14eDFA03ed684c6D32Bdc6c303FDBeaCFf717b
 
 
 
